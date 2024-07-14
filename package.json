@@ -13,9 +13,11 @@
   },
   "devDependencies": {
     "@commitlint/config-conventional": "19.2.2",
+    "cat": "*",
     "commitlint": "19.3.0",
     "husky": "9.0.11",
-    "lint-staged": "15.2.7"
+    "lint-staged": "15.2.7",
+    "package.json": "*"
   },
   "engines": {
     "node": ">=20",
@@ -50,5 +52,9 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "peerDependencies": {
+    "cat": "^0.2.0",
+    "package.json": "^2.0.1"
   }
 }
