@@ -10,7 +10,7 @@
   "license": "BSD-3-Clause",
   "dependencies": {
     "prettier": "3.3.3",
-    "prettier-plugin-organize-imports": "4.0.0"
+    "prettier-plugin-organize-imports": "4.1.0"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "19.5.0",
