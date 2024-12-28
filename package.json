@@ -16,7 +16,7 @@
     "@commitlint/config-conventional": "19.6.0",
     "commitlint": "19.6.1",
     "husky": "9.1.7",
-    "lint-staged": "15.2.11"
+    "lint-staged": "15.3.0"
   },
   "engines": {
     "node": ">=22",
